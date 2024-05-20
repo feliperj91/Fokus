@@ -1,4 +1,4 @@
-# Projeto Fokus pela Alura
+# Projeto Fokus
 
 Este é um projeto de técnica Pomodoro desenvolvido com HTML, CSS e JavaScript. Trata-se de um trabalho voltado ao estudo e aprendizado, seguindo o módulo atualizado "JavaScript: Manipulando Elementos no DOM (Document Object Model)" na plataforma Alura. O estudo sobre JavaScript com DOM continua no módulo "JavaScript na Web: Armazenando Dados no Navegador", que aprimora ainda mais o Projeto Fokus.
 
